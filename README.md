@@ -21,9 +21,9 @@ Berdasarkan struktur file (`HomeScreen.kt`, `Riwayat.kt`, `FormMentor.kt`, dll.)
 
 1.  **Sistem Autentikasi:** Fitur Login (`Login.kt`) dan Registrasi/Sign Up (`SignUp.kt`) menggunakan **Firebase Authentication**.
 2.  **Onboarding:** Tampilan pengenalan aplikasi awal (`SplashScreen.kt`, `onBoarding1.kt`, `onBoarding2.kt`).
-3.  **Daftar Mata Kuliah:** Menampilkan daftar mata kuliah yang tersedia untuk pencarian mentor (`MataKuliah.kt`).
-4.  **Informasi Mata Kuliah:** Detail deskripsi mata kuliah (`InformasiMatkul.kt`).
-5.  **Daftar Mentor:** Menampilkan mentor yang tersedia untuk mata kuliah yang dipilih (`DaftarMentor.kt`).
+3.  **Daftar Mata Pelajaran:** Menampilkan daftar mata pelajaran yang tersedia untuk pencarian mentor (`MataKuliah.kt`).
+4.  **Informasi Mata Pelajaran:** Detail deskripsi mata kuliah (`InformasiMatkul.kt`).
+5.  **Daftar Mentor:** Menampilkan mentor yang tersedia untuk mata pelajaran yang dipilih (`DaftarMentor.kt`).
 6.  **Pemesanan Mentor:** Fitur detail mentor dan dialog konfirmasi sewa (terdapat di `InfromasiMentor.kt` yang juga menyimpan data sewa ke Firebase Realtime Database sebagai Riwayat).
 7.  **Riwayat Sewa:** Halaman untuk melihat daftar transaksi penyewaan mentor yang telah dilakukan (`Riwayat.kt`).
 8.  **Review dan Rating:** Memberikan ulasan dan penilaian kepada mentor (`ReviewMentor.kt`, `InputReviewMentor.kt`).
