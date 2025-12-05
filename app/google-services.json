@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "923021188688",
+    "firebase_url": "https://academate-c7250-default-rtdb.firebaseio.com",
+    "project_id": "academate-c7250",
+    "storage_bucket": "academate-c7250.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923021188688:android:9e62e6bfc9acf3061d3b55",
+        "android_client_info": {
+          "package_name": "com.example.academate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfPSiTgS4IRNVwpqHn86CeZ8zEzSVjlvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AcadeMate</string>
+    <string name="dayat">Hanidura Ayatulloh</string>
+    <string name="ivan">Ivan Rifanda Sharif</string>
+    <string name="scorpian">Scorpian Erickda</string>
+    <string name="jst">Jaringan Saraf Tiruan</string>
+    <string name="rpl">Rekayasa Perangkat Lunak</string>
+    <string name="pemdas">Pemrograman Dasar</string>
+</resources>
